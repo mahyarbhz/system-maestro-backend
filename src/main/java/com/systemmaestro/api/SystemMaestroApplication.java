@@ -14,5 +14,4 @@ public class SystemMaestroApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SystemMaestroApplication.class, args);
 	}
-
 }
